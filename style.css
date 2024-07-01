@@ -1,0 +1,220 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.page1{
+    position: relative;
+    background-color: black;
+    height: 15%;
+    width: 100%;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.navright{
+    color:rgba(255, 119, 0, 0.893);
+    padding: 10px;
+}
+.navleft img{
+    height: 60px;
+    padding:15px;
+}
+.nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+nav ul li a {
+    color:rgba(255, 119, 0, 0.893);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+nav ul li a:hover {
+    color: white;
+}   
+.about{
+    background-image: url(https://res.cloudinary.com/dxpgneduv/image/upload/v1719748989/port4_rkezdq.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    padding: 0%;
+    margin: 0%; 
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-between;
+}
+.aboutleft img{
+    height:450px;
+    padding: 60px;
+}
+.about h1{
+    display: block;
+    color:white;
+    padding-top:200px;
+}
+span{
+    color:rgba(255, 119, 0, 0.893);
+    font-family: cursive;
+    text-decoration: none;
+}
+.about p{
+   color:white; 
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   font-size: medium;
+   padding-right: 25px;
+   padding-top: 15px;
+   letter-spacing: 0.5px;
+}
+.aboutright p a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+.page2{
+    position: relative;
+    height: 90vh;
+    width: 100%;
+    padding:0%;
+    background-color: black;
+}
+.page2 p{
+    color:black;
+}
+.eduinfo{
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+    padding: 25px;
+    text-align: center;  
+}
+h2{
+    color: rgba(255, 119, 0, 0.893);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    size: big;
+    padding: 0%;
+    margin: 0%;
+    padding-top: 10px;
+}
+.btech{
+    border-radius: 35px;
+    background-color:white;
+    width: 35%;
+    height: 35vh;
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    background-image: url(https://res.cloudinary.com/dxpgneduv/image/upload/v1719670663/photo-1506508618093-6fe5ce3def4c_firsud.jpg);
+}
+.btech h2{
+    text-align: center;
+    color: rgb(15, 1, 20);
+}
+.intermediate{
+    border-radius: 35px;
+    background-color:white;
+    width: 35%;
+    height: 35vh;
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    background-image: url(https://res.cloudinary.com/dxpgneduv/image/upload/v1719670663/photo-1506508618093-6fe5ce3def4c_firsud.jpg);
+
+}
+.intermediate h2{
+    text-align: center;
+    color: rgb(15, 1, 20);
+}
+.tenth{
+    border-radius: 35px;
+    background-color:white;
+    width: 35%;
+    height: 35vh;
+    margin: 5px;
+    letter-spacing: 0.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-image: url(https://res.cloudinary.com/dxpgneduv/image/upload/v1719670663/photo-1506508618093-6fe5ce3def4c_firsud.jpg);
+
+}
+.tenth h2{
+    text-align: center;
+    color: rgb(15, 1, 20);
+}
+ol h4{
+    text-align: center;
+    color: white;
+}
+ol h4 img{
+    align-items: center;
+    height: 25px;
+}
+.page3{
+    position: relative;
+    background-color:black;
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding:0%; 
+}
+section h2{
+    background-color: black;
+}
+.page3 img{
+    width: 25rem;
+    height: 85%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    margin: 3px;
+}
+.page4{
+    position: relative;
+    background-color:black;
+    height: 30%vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding:0%;
+    justify-content: center;
+}
+h3{
+    background-color:black;
+    color: rgb(110, 128, 19);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    size: big;
+    padding: 0%;
+    margin: 0%;
+}
+.page4 img{
+    height: 40px;
+    padding: 15px;
+}
+h4{
+    color:white;
+    text-align: center;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
