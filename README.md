@@ -55,4 +55,4 @@ M. Poorna Chandra Rao - [mpoorna11@jnn.edu.in]
 
 GitHub: [https://github.com/yourusername](https://github.com/chandramannepalli)
 
-LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/Poorna Chandra Rao mannepalli)
+LinkedIn: [https://linkedin.com/in/yourusername](https://www.linkedin.com/in/poorna-chandra-rao-mannepalli-44b101259/)
